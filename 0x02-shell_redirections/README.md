@@ -1,1 +1,2 @@
-Script writting
+
+Writting scripts.
