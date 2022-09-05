@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a 0x02-shell_redirections > ls_cwd_content | less
+ls -al > ls_cwd_content
